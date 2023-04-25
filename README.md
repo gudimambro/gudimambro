@@ -1,8 +1,8 @@
 <h2> < Hello World, I'm <a href="https://www.linkedin.com/in/gustavo-dimambro/" target="_blank"> Gustavo Di Mambro</a> /> <img src="resources/hi.gif" width="30" height="30">  </h2>
     
-- I am a Software Engineer at <a href="https://www.farfetch.com/" target="_blank"> Farfetch</a> global platform for the luxury fashion industry.
+- I am a Software Engineer at <a href="https://www.olxgroup.com/" target="_blank"> OLX Group</a>.
 - Currently I am deep diving in Javascript, learn how the language works and how to use it in the best way.
-- I am interested in Frontend Development, Javascript, React, NodeJS, Typescript, and everything that is related to the web.
+- I am interested in Frontend Development, Javascript, React, Next, Typescript, and everything that is related to the web.
 - Outside of work, I like to go to the gym 💪, play video games 🎮, and watch bad horror movies 👻.
  
 <h2>🧰 My Toolkit</h2>
